@@ -1,1 +1,2 @@
-# classes-basics-opp-
+# classes-basics-oop
+csak belekóstoltunk
